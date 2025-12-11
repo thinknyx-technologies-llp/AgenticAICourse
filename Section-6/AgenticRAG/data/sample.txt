@@ -1,0 +1,6 @@
+{
+    "title": "My Page",
+    "author": "Dheeraj",
+    "content": "This is one page of text stored as a dictionary.",
+    "page_number": 1
+}
