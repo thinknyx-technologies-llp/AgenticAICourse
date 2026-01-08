@@ -40,4 +40,5 @@ Key features demonstrated include:
 
 ### Flow Diagram
 
-<img width="1134" height="587" alt="Traditional AI AWS Infrastructure Agent" src="" />
+<img width="1044" height="386" alt="image" src="https://github.com/user-attachments/assets/a8cc1000-baf6-4c54-a58a-88d489a843a1" />
+
