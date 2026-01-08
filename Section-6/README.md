@@ -67,7 +67,8 @@ The key components and features demonstrated are:
    * Supports multiple queries in a single session with a clean exit mechanism.
 
 ### Flow Diagram
-<img width="1134" height="587" alt="Agentic RAG Course Knowledge Workflow" src="https://github.com/user-attachments/assets/agentic-rag-course-placeholder" />
+<img width="975" height="490" alt="image" src="https://github.com/user-attachments/assets/dfa3efae-1ac7-4a01-8e8b-9ac675534dd8" />
+
 
 
 ---
@@ -106,4 +107,4 @@ The solution supports both **project URLs** and **document-based inputs (PDFs)**
 
 ### **Flow Diagram**
 
-<img width="1134" height="587" alt="Agentic Project Feasibility Checker" src="https://github.com/user-attachments/assets/d8261c26-80f4-4ca1-aefe-001970d14736" />
+<img width="1126" height="625" alt="image" src="https://github.com/user-attachments/assets/9c0a7401-5558-41da-8c9d-d4ee2c2da22b" />
