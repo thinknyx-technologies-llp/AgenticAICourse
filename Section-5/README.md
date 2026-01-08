@@ -78,7 +78,7 @@ The key components and features demonstrated are:
    * Clearly lists instance count, instance IDs, usage duration, and estimated monthly pricing.
 
 ### Flow Diagram
-<img width="1134" height="587" alt="AWS Agentic AI Workflow" src="https://github.com/user-attachments/assets/aws-agentic-ai-placeholder" />
+<img width="893" height="547" alt="image" src="https://github.com/user-attachments/assets/1d82f320-380c-41b4-8aff-71149b0ae60c" />
 
 ---
 
@@ -108,5 +108,5 @@ The key components and features demonstrated are:
 5. **Automated Reporting & Delivery**: Generating a clean, structured HTML report and automatically sending it to stakeholders, simulating a real-world cloud monitoring and reporting system.
 
 ### **Flow Diagram**
+<img width="491" height="470" alt="image" src="https://github.com/user-attachments/assets/a9421bc8-ef63-4828-bc4c-22c94cbe5808" />
 
-<img width="1134" height="587" alt="Multi-Cloud Agentic AI with CrewAI" src="https://github.com/user-attachments/assets/d8261c26-80f4-4ca1-aefe-001970d14736" />
