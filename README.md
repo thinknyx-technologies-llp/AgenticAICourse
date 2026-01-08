@@ -1,5 +1,8 @@
 # Building Autonomous Agentic AI Systems for Beginners - Hands-On
 
+<img width="1920" height="1080" alt="Agentic AI" src="https://github.com/user-attachments/assets/4adf60bd-f7ab-412c-89f9-efd93513f353" />
+
+
 ## **Description**
 
 Agentic AI is rapidly transforming how work gets done, marking a pivotal shift in the evolution of intelligent systems. Mastering this new paradigm has never been more essential. This course empowers you with the practical skills and strategic understanding needed to design, build, and deploy **real-world agentic AI systems**, unlocking powerful opportunities for innovation, automation, and career growth.
