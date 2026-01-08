@@ -1,6 +1,6 @@
 ## Section 6
 
-## Project 13 – RAG-based Q\&A Agent using Streamlit
+## Project 15 – RAG-based Q\&A Agent using Streamlit
 
 ### Project Description
 This demonstration focuses on building a simple yet fully functional Retrieval-Augmented Generation (RAG) system integrated into a user-friendly Q\&A agent. The goal is to allow a user to chat with a custom file. The agent is built using Python, the Google Generative AI library, and **Streamlit** for a quick and intuitive web interface.
@@ -15,7 +15,7 @@ The project demonstrates:
 
 
 
-## Project 14 – Agentic RAG with CrewAI
+## Project 16 – Agentic RAG with CrewAI
 
 ### Project Description
 This advanced project demonstrates the creation of an **Agentic RAG** system using the **CrewAI** framework. This architecture replaces a single LLM call with a collaborative team of specialized agents to ensure highly accurate, contextual, and verifiable retrieval and response. The agents interact with a local **Knowledge Base** (a custom file) through a dedicated **Text Tool**.
@@ -32,3 +32,78 @@ The key components and features demonstrated are:
 <img width="1134" height="587" alt="Agentic RAG with CrewAI" src="https://github.com/user-attachments/assets/d8261c26-80f4-4ca1-aefe-001970d14736" />
 
 
+---
+
+## Project 17 – Agentic RAG for Course Knowledge  
+
+### Project Description
+This project demonstrates the creation of an **Agentic Retrieval-Augmented Generation (RAG)** system that enables intelligent question answering over a **custom course knowledge base**. The system uses a **Gemini LLM**, **vector embeddings**, and an **agent-based architecture** to deliver accurate, reference-backed answers.
+
+The knowledge base consists of course PDFs, allowing the agent to respond with explanations, course names, section references, and page numbers.
+
+The key components and features demonstrated are:
+
+1. **Agent-Based Teaching Assistant**:  
+   * A single intelligent agent acting as an expert teaching assistant.
+   * The agent is guided by strict system instructions to provide clear, structured, and reference-backed responses.
+
+2. **Knowledge Base Integration**:  
+   * Course materials (PDFs) are uploaded and indexed into a **vector database**.
+   * Automatic OCR, embedding generation, and indexing enable semantic search across documents.
+
+3. **Retrieval-Augmented Generation (RAG)**:  
+   * The agent retrieves relevant context from the vector database before generating responses.
+   * Ensures answers are grounded in verified course content rather than hallucinated information.
+
+4. **Explainable and Verifiable Output**:  
+   * Responses include:
+     * Course name
+     * Section number
+     * Page reference
+   * Enables transparent and trustworthy learning assistance.
+
+5. **Interactive Query Loop**:  
+   * Terminal-based interface for continuous questioning.
+   * Supports multiple queries in a single session with a clean exit mechanism.
+
+### Flow Diagram
+<img width="1134" height="587" alt="Agentic RAG Course Knowledge Workflow" src="https://github.com/user-attachments/assets/agentic-rag-course-placeholder" />
+
+
+---
+
+## Project 18 – Agentic Project Feasibility Checker
+
+### Project Description
+
+This project demonstrates a **real-world Agentic RAG system** that evaluates whether an organization can successfully execute a given project or tender. The system uses the **Gemini LLM** combined with an **organizational knowledge base** to analyze project requirements and generate a structured feasibility report.
+
+The solution supports both **project URLs** and **document-based inputs (PDFs)** and is exposed through a simple **Streamlit frontend** for interactive analysis.
+
+---
+
+### **Key Components and Features**
+
+1. **Organization Knowledge Base (RAG)**
+
+   * Company documents are ingested into a vector database to provide contextual grounding for analysis.
+
+2. **Project Feasibility Agent**
+
+   * Acts as a senior bid manager and technical evaluator.
+   * Determines feasibility, gaps, risks, timeline, and budget estimates.
+
+3. **Multiple Input Methods**
+
+   * Analyzes projects via **URLs** or **uploaded PDF documents**.
+
+4. **Streamlit Interface**
+
+   * Allows users to provide API keys, upload documents, and trigger feasibility analysis.
+   * Displays structured results in real time.
+
+---
+
+### **Flow Diagram**
+
+<img width="1134" height="587" alt="Agentic Project Feasibility Checker" src="https://github.com/user-attachments/assets/d8261c26-80f4-4ca1-aefe-001970d14736" />

@@ -1,6 +1,6 @@
 ## Section 4
 
-## Project 6 – Build a Minimal MCP Server (4.3)
+## Project 7 – Build a Minimal MCP Server (4.3)
 
 ### Project Description
 This foundational project introduces the **Model Context Protocol (MCP)** by demonstrating how to build a minimal, compliant MCP server from scratch using Python and FastAPI. The goal is to fully understand the client-server interaction governed by MCP. The server is built on a basic in-memory database and exposes two crucial JSON-RPC methods:
@@ -15,7 +15,7 @@ This project covers the full workflow: server implementation, tool definition, M
 
 ***
 
-## Project 7 – Building an Agent on Top of an MCP Server (4.4)
+## Project 8 – Building an Agent on Top of an MCP Server (4.4)
 
 ### Project Description
 Building upon the previous project, this demonstration creates a **fully functional Agentic AI application** that uses the established MCP server as its primary tool provider. This lightweight agent acts as the interface between the user's natural language query and the structured MCP environment.
@@ -35,7 +35,7 @@ This project validates the power of decoupling the agent's reasoning (LLM) from 
 
 ***
 
-## Project 8 – Demonstration: Docker MCP with Agentic AI (4.5)
+## Project 9 – Demonstration: Docker MCP with Agentic AI (4.5)
 
 ### Project Description
 This advanced demonstration moves beyond custom servers to showcase integration with a powerful, pre-built **Docker MCP Server** and an external AI client: **Claude Desktop** (using Sonnet 4.5).
@@ -49,5 +49,3 @@ This project confirms that the MCP pattern can be extended to control real-world
 
 ### Flow Diagram
 <img width="942" height="484" alt="MCP-Docker" src="https://github.com/user-attachments/assets/cb996ed0-0206-4a48-9e27-0178ee7babb1" />
-
-

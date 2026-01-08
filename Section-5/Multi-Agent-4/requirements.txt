@@ -1,0 +1,8 @@
+crewai
+boto3
+google-cloud-compute
+google-cloud-billing
+google-genai
+pydantic
+python-dotenv
+crewai-tools
