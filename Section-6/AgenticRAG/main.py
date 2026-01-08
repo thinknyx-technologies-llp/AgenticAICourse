@@ -20,7 +20,7 @@ gemini_llm = LLM(
 
 # Simple text file acting as "knowledge base"
 def load_knowledge():
-    with open("/Users/thinknyxdheeraj/Documents/agentic-ai-course/AgenticRAG/data/final_report.md", "r") as f:
+    with open("/data/final_report.md", "r") as f:
         return f.read()
 
 from tools import TextTool
